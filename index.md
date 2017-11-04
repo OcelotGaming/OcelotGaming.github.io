@@ -1,7 +1,7 @@
 # Projects
 
 • CappyBOT - Discord bot for Super Mario Odyssey, providing tips on Power Moons
-• Novacraft - Minecraft Minigame Network
+           • Novacraft - Minecraft Minigame Network
 
 ## CappyBOT
 
